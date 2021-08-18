@@ -1,4 +1,5 @@
 // conditionl if equal 
+// 
 
 var myFriend1 = true;
 
@@ -15,6 +16,7 @@ if (myFrient2 == myFrient3) {
 
 
 // conditionl if geterthan or equal 
+
 
 var myFrient2 = 10;
 
