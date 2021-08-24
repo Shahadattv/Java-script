@@ -15,3 +15,9 @@ for (var i = 0; i < 10; i++) {
 
 
 }
+// console.log (ksa);
+var ksa = [100, 200, 300];
+for(var babu of ksa){
+    console.log(ksa)
+}
+
